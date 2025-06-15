@@ -1,0 +1,8 @@
+pyqt5
+transformers
+torch
+keyboard
+pillow
+pytesseract
+pyperclip
+pywin32
